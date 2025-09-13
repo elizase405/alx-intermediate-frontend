@@ -1,1 +1,9 @@
-Steps taken to install sass
+# Steps taken to install sass
+## Install NVM
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+## Install node/npm
+nvm install node
+
+## Install sass
+npm install -g sass
